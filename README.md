@@ -19,7 +19,7 @@
           <li> Find Vinland 🌾</li> 
       </ul>
       
-  🎮 Favorite Game : <a href="https://csstats.gg/es/player/76561199546907316" style="text-decoration: none; color: #ff9d00; font-weight: bold;">CS2</a> <br>
+  🎮 Favorite Game : <a href="https://csstats.gg/es/player/76561199546907316">CS2</a> <br>
   📺 Favorite TV Show: Dexter 🩸🔪<br>
   🥷 Favorite Anime: Naruto 🍜🍥<br>
   🎬 Favorite Movie: Donnie Darko ✈️</p>
