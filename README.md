@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">📚 I'm currently learning code from CFGS DAM<br>✨ Hobbies: <br># Play Video Game.<br># Watch movies, TV Shows and anime.<br># Find Vinland<br>🎮 Favorite Game :  CS2<br>📺 Favorite TV Show: Dexter<br>🥷 Favorite Anime: Naruto<br>🎬 Favorite Movie: Donnie Darko</p>
+<p align="left">📚 I'm currently learning code from CFGS DAM<br>
+  
+  ✨ Hobbies: <br> <ul> <li>Play Video Game.</li><li># Watch movies, TV Shows and anime.</li><li># Find Vinland</li> </ul>🎮 Favorite Game :  CS2<br>📺 Favorite TV Show: Dexter<br>🥷 Favorite Anime: Naruto<br>🎬 Favorite Movie: Donnie Darko</p>
 
 ###
 
