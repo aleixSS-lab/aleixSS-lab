@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aleix, and I'm a student from DAM</p>
+<p align="left">My name is Aleix, and I'm a student from Cross-Platfrom Application Development </p>
 
 ###
 
